@@ -91,9 +91,9 @@ htmlText_5AEA1BFA_4B54_EC96_41BC_AB7EB7C2DCBC.html = <div style="text-align:left
 ### PDF
 PopupPDFBehaviour_C526EFF0_D0A1_A7F6_41E8_584207B2A26F.url = files/499460824-Tebet-Flat-Inst-Raslene-2020_en.pdf
 PopupPDFBehaviour_CC8705C1_D6CF_4FFA_41E7_E58F3214A3B6.url = files/499460824-Tebet-Flat-Inst-Raslene-2020_en.pdf
-PopupPDFBehaviour_EA4E2EA9_DABF_B737_41D0_852CE96C2ECF.url = files/E- Katalog - Pameran Rumah Susun_en.pdf
-PopupPDFBehaviour_ED25227C_DAB1_4F0E_41C0_F6B27A4C2B6A.url = files/E- Katalog - Pameran Rumah Susun_en.pdf
 
 ### URL
+PopupWebFrameBehaviour_8AE87D6F_DE71_750B_41D0_A4C4A93E1760.url = https://drive.google.com/file/d/1CDrS5bpr0k08MWbob8nPMA7ETHiSJPhH/preview
+PopupWebFrameBehaviour_95D4A404_DE71_CAFE_41E0_CFADDAED313A.url = https://drive.google.com/file/d/1CDrS5bpr0k08MWbob8nPMA7ETHiSJPhH/preview
 PopupWebFrameBehaviour_C827D2B4_D651_C59A_41E5_36854D6FBDF0.url = https://www.google.com/maps/embed?pb=!4v1617989658536!6m8!1m7!1sV3pwxtHZaKrENgUgIPqWmg!2m2!1d-6.31900732588696!2d106.8153769274029!3f343.11681903330276!4f-0.4679701713900357!5f0.4000000000000002
 PopupWebFrameBehaviour_EDD34AF8_DABE_BF15_41DB_F6ABA404009A.url = https://www.google.com/maps/embed?pb=!4v1617989658536!6m8!1m7!1sV3pwxtHZaKrENgUgIPqWmg!2m2!1d-6.31900732588696!2d106.8153769274029!3f343.11681903330276!4f-0.4679701713900357!5f0.4000000000000002
